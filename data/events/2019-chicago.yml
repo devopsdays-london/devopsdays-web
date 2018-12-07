@@ -118,6 +118,7 @@ team_members:
   - name: "Hari Vedam"
     bio: "Hari Vedam is a cloud engineer.  He is an avid technologist.    His experience includes IT architecture, front-end development, and public + private cloud. When he is not playing with the cloud, his free time includes cooking, reading, and watching movies, especially Marvel."
     image: "hari-vedam.jpg"
+    employer: "Discover"
     linkedin: "https://www.linkedin.com/in/hariv82"
     twitter: "HariVedam"
     github: "harushimo"
