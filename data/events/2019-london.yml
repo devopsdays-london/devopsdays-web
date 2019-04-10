@@ -140,13 +140,13 @@ sponsors_accepted : "yes" # Whether you want "Become a XXX Sponsor!" link
 sponsor_levels:
   - id: platinum
     label: Platinum
-    max: 3
+    max: 2
   - id: evening
     label: Evening Event
     max: 1
   - id: gold
     label: Gold
-    max: 7
+    max: 9
   - id: silver
     label: Silver
     max: 12
