@@ -97,8 +97,9 @@ sponsors:
   - id: pivotal
     level: gold
     # Silver
-  - id: capitaloneuk
+  - id: capitalone
     level: silver
+    url: https://www.capitalone.co.uk
   - id: datadog
     level: silver
   - id: pagerduty
@@ -111,6 +112,8 @@ sponsors:
   - id: leeds-devops
     level: community
   - id: manc-devops
+    level: community
+  - id: meetup-mates
     level: community
   - id: doxlon
     level: community
