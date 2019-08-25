@@ -27,3 +27,10 @@ If you have any questions please contact us at {{< email_organizers >}}.
 You can also register directly on tito at <a href="https://ti.to/devopsdays-london/2019" target="_blank" rel="noopener">here</a> if you don't wish to use the embedded version.
 
 <tito-widget event="devopsdays-london/2019"></tito-widget>
+
+## Refunds and Reassignment
+
+If you have bought a ticket and can no longer make it you can either reassign your ticket to someone else through ti.to , email us at {{< email_organizers >}} for a refund or to donate it as a free ticket for people from under represented groups and we will give it to somone on our waiting list. We will refund tickets up to the day before the conference.
+
+
+
