@@ -37,6 +37,7 @@ location_address: "Kia Oval, Kennington, London SE11 5SS"
 
 nav_elements: # List of pages you want to show up in the navigation of your page.
   - name: propose
+  # - name: registration
   - name: location
   - name: accessibility
   - name: sponsor
@@ -80,11 +81,16 @@ organizer_email: "london@devopsdays.org" # Put your organizer email address here
 # List all of your sponsors here along with what level of sponsorship they have.
 # Check data/sponsors/ to use sponsors already added by others.
 sponsors:
+  # platinum sponsors
+  - id: cortex
+    level: platinum
+  # gold sponsors
   - id: chef
     level: gold
-  #  url: http://mysponsor.com/?campaign=me # Use this if you need to over-ride a sponsor URL.
-  # - id: arresteddevops
-  #   level: community
+  - id: humio
+    level: gold
+  # silver sponsors
+  # bronze sponsors
 
 sponsors_accepted: "yes" # Whether you want "Become a XXX Sponsor!" link
 
