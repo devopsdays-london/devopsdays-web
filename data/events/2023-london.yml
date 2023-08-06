@@ -104,6 +104,8 @@ sponsors:
     level: silver
   - id: checkly
     level: silver
+  - id: elastic
+    level: silver
   # bronze sponsors
   - id: dxw
     level: bronze
